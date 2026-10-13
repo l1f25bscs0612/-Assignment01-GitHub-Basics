@@ -1,4 +1,8 @@
-
+/*
+Program: Sum of the First 50 Natural Numbers
+Name: Minahil Yasir
+Registration number: L1f25bscs0612
+*/
 #include <iostream>
 using namespace std;
 
